@@ -1,5 +1,5 @@
-# 💫 About Me:
-## Hi, I'm Nishita Roy ✨<br><br><br>🐍 Skilled in Python & C# – Strong foundation in versatile and powerful programming languages.<br /><br>🤖 Exploring Machine Learning & AI – Passionate about intelligent systems and future tech.<br /><br>🛠️ Love Creating Smart, Useful Tools – Focused on building things that solve problems and add value.<br /><br>📚 Always Learning & Coding – Continuously improving and staying up-to-date with new technologies.
+## Hi, I'm Nishita Roy 
+<br>🐍 Skilled in Python & C# – Strong foundation in versatile and powerful programming languages.<br /><br>🤖 Exploring Machine Learning & AI – Passionate about intelligent systems and future tech.<br /><br>🛠️ Love Creating Smart, Useful Tools – Focused on building things that solve problems and add value.<br /><br>📚 Always Learning & Coding – Continuously improving and staying up-to-date with new technologies.
 
 
 ## 🌐 Socials:
